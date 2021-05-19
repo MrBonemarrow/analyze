@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tissue-factory/static/css/main.41fb6734.chunk.css",
-    "main.js": "/tissue-factory/static/js/main.45672a43.chunk.js",
-    "main.js.map": "/tissue-factory/static/js/main.45672a43.chunk.js.map",
-    "runtime-main.js": "/tissue-factory/static/js/runtime-main.a556234f.js",
-    "runtime-main.js.map": "/tissue-factory/static/js/runtime-main.a556234f.js.map",
-    "static/js/2.ef5534b6.chunk.js": "/tissue-factory/static/js/2.ef5534b6.chunk.js",
-    "static/js/2.ef5534b6.chunk.js.map": "/tissue-factory/static/js/2.ef5534b6.chunk.js.map",
-    "index.html": "/tissue-factory/index.html",
-    "static/css/main.41fb6734.chunk.css.map": "/tissue-factory/static/css/main.41fb6734.chunk.css.map",
-    "static/js/2.ef5534b6.chunk.js.LICENSE.txt": "/tissue-factory/static/js/2.ef5534b6.chunk.js.LICENSE.txt"
+    "main.css": "/analyze/static/css/main.41fb6734.chunk.css",
+    "main.js": "/analyze/static/js/main.ff7d61b6.chunk.js",
+    "main.js.map": "/analyze/static/js/main.ff7d61b6.chunk.js.map",
+    "runtime-main.js": "/analyze/static/js/runtime-main.69f88e9e.js",
+    "runtime-main.js.map": "/analyze/static/js/runtime-main.69f88e9e.js.map",
+    "static/js/2.ef5534b6.chunk.js": "/analyze/static/js/2.ef5534b6.chunk.js",
+    "static/js/2.ef5534b6.chunk.js.map": "/analyze/static/js/2.ef5534b6.chunk.js.map",
+    "index.html": "/analyze/index.html",
+    "static/css/main.41fb6734.chunk.css.map": "/analyze/static/css/main.41fb6734.chunk.css.map",
+    "static/js/2.ef5534b6.chunk.js.LICENSE.txt": "/analyze/static/js/2.ef5534b6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a556234f.js",
+    "static/js/runtime-main.69f88e9e.js",
     "static/js/2.ef5534b6.chunk.js",
     "static/css/main.41fb6734.chunk.css",
-    "static/js/main.45672a43.chunk.js"
+    "static/js/main.ff7d61b6.chunk.js"
   ]
 }
